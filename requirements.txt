@@ -1,0 +1,8 @@
+# notebook (simulator, experiments, figures)
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+scikit-learn>=1.6
+torch>=2.2
+joblib>=1.3
+# the Ryu testbed has its own environment (Python 3.9): see ryu_la_mtd/README.md

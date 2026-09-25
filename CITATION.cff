@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "A Learning-Automata Moving Target Defence Against Low-Rate Flow-Table Overflow Attacks in Software-Defined Networks"
+authors:
+  - family-names: AkhlaghPasandi
+    given-names: Taha
+  - family-names: Haj Seyyed Javadi
+    given-names: Hamid
+year: 2026
+type: software

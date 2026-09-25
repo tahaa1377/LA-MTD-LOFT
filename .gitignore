@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+ryu_la_mtd/runs/*.jsonl
+ryu_la_mtd/runs/*.ryu.log
+ryu_la_mtd/runs/*.meta.json
+ryu_la_mtd/runs/*.config.json
+venv*/
